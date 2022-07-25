@@ -1,0 +1,48 @@
+.mainContent {
+    display: flex;
+    justify-content: center;
+}
+
+/* selector por todo lf pagina */
+* {
+    font-size: 12px;
+}
+
+/* selector de tipo */
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+/* selector de class */
+.mainDiv {
+    width: 100%;
+    background-color: aquamarine;
+    padding: 5px;
+    margin: 10px;
+}
+
+/* selector de id */
+#labelName {
+    color: red;
+}
+
+/* selector de atributo */
+[for] {
+    color: blue;
+}
+
+#buttonSend1 {
+    background-color: rgb(255, 251, 0);
+    color: rgb(60, 34, 211);
+    border-radius: 5px;
+    margin-top: 10px;
+}
