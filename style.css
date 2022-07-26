@@ -5,13 +5,13 @@
 
 /* selector por todo lf pagina */
 * {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 /* selector de tipo */
 h1 {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 24px;
+    font-size: 25px;
 }
 
 h2 {
